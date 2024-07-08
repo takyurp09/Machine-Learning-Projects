@@ -1,1 +1,2 @@
-# Machine-Learning-Projects
+# Machine_Learning_Projects_withPython
+Welcome to my Machine Learning Projects repository! This collection serves as a comprehensive guide through the various projects I completed during my machine learning courses. Each project is designed to illustrate key concepts and techniques in machine learning, providing practical examples and detailed explanations to help you understand and apply these concepts in your own work.
